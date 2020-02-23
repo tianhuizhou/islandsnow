@@ -1,5 +1,9 @@
-.ui.borderless{
+.borderless.top{
   background-color: #f7f7f7;
+  border: none;
+  box-shadow: none;
+}
+.borderless.mid{
   border: none;
   box-shadow: none;
 }
